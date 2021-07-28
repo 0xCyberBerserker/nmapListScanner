@@ -1,5 +1,5 @@
 # NmapListScanner
-# I am not responsible of what you do with this software.<br/>USE IT ONLY FOR EDUCATIONAL PURPOSES OR WITH AUTORIZATION OF YOUR ORGANIZATION<br/>DON'T USE IT FOR ANY MALICIOUS PURPOSES.
+## I am not responsible of your actions with this software.<br/>USE IT ONLY FOR EDUCATIONAL PURPOSES AND WITH AUTORIZATION OF YOUR ORGANIZATION<br/>DON'T USE IT FOR ANY MALICIOUS PURPOSES.
 
-## Only for *NIX Systems
+#### Only for **UNIX-Like** Systems
 You only need to write the host list on your list.txt file
