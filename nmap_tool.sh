@@ -16,7 +16,7 @@ function check_deps() {
 	for pkg in ${DEPENDENCIES[@]}; do
 		i=$(is_installed $pkg)
 		if [ ${i} != "1" ]; then
-			printf "${PSRE} ${pkg} is not installed. Please install ${pkg} and run vpnroulette again${DEF}\n"
+			printf "${PSRE} ${pkg} is not installed. Please install ${pkg} and run the script again${DEF}\n"
 			exit 2
 		else
 			printf "${PSR} ${pkg} is installed ......OK${DEF}\n"
